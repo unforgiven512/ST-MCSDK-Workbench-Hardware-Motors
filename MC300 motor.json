@@ -1,0 +1,26 @@
+{
+    "label": "MC300 motor",
+    "hardwareFamily": "MOTOR",
+    "description": "hall sensors",
+    "compatibility": [
+        "FOC",
+        "sixStep"
+    ],
+    "polePairs": 4,
+    "nominalCurrent": 2.8,
+    "nominalDCVoltage": 12,
+    "rs": 0.56,
+    "ls": 0.13,
+    "magneticStructure": {
+        "type": "SM-PMSM"
+    },
+    "BEmfConstant": 2.31,
+    "inertia": 10.41,
+    "friction": 373.62,
+    "maxRatedSpeed": 6000,
+    "hallSensor": {
+        "sensorsDisplacement": 120,
+        "placementElectricalAngle": 300
+    },
+    "id": "MC300 motor"
+}

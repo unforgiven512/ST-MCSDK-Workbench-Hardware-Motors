@@ -1,0 +1,23 @@
+{
+    "BEmfConstant": 0.30149370431900024,
+    "compatibility": [
+        "FOC",
+        "sixStep"
+    ],
+    "description": "tested at max current of 7.6 amps",
+    "friction": 1.06,
+    "hardwareFamily": "MOTOR",
+    "id": "BE1806-2300kv-3S-high",
+    "inertia": 0.07,
+    "label": "BE1806-2300kv-3S-high",
+    "ls": 0.01,
+    "magneticStructure": {
+        "ld_lq_ratio": "",
+        "type": "SM-PMSM"
+    },
+    "maxRatedSpeed": 25890,
+    "nominalCurrent": 7.599999904632568,
+    "nominalDCVoltage": 12.19488525390625,
+    "polePairs": 6,
+    "rs": 0.10000000149011612
+}

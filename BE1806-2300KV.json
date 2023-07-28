@@ -1,0 +1,23 @@
+{
+    "BEmfConstant": 0.34032168984413147,
+    "compatibility": [
+        "FOC",
+        "sixStep"
+    ],
+    "description": "Flash Hobby BLDC motor",
+    "friction": 0.07,
+    "hardwareFamily": "MOTOR",
+    "id": "BE1806-2300KV",
+    "inertia": 0.11,
+    "label": "BE1806-2300KV",
+    "ls": 0.01,
+    "magneticStructure": {
+        "ld_lq_ratio": "",
+        "type": "SM-PMSM"
+    },
+    "maxRatedSpeed": 17772,
+    "nominalCurrent": 5,
+    "nominalDCVoltage": 12.47607421875,
+    "polePairs": 7,
+    "rs": 0.10000000149011612
+}
